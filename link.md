@@ -1,1 +1,1 @@
-link go chefsplace.netlify.com
+link : chefsplace.netlify.com
