@@ -1,1 +1,1 @@
-link : chefsplace.netlify.com
+link : chefsplace.netlify.app
